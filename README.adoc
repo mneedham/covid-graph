@@ -1,5 +1,5 @@
 = COVID-19 Taxonomy Graph
 
-This is the code behind the blog post - 
+This is the code behind the blog post - https://markhneedham.com/blog/2020/04/21/quick-graph-covid-19-taxonomy/
 
 If you want to import the data to your own Neo4j instance, you can use the commands in https://github.com/mneedham/covid-graph/blob/master/import.cypher[import.cypher^]
