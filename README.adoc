@@ -2,4 +2,4 @@
 
 This is the code behind the blog post - 
 
-If you want to import the data to your own Neo4j instance, you can use the commands in import.cypher[import.cypher^]
+If you want to import the data to your own Neo4j instance, you can use the commands in https://github.com/mneedham/covid-graph/blob/master/import.cypher[import.cypher^]
